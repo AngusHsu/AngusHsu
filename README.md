@@ -1,23 +1,111 @@
-<p align="center">
-  <samp>
-    Hey 👋, I'm Angus Hsu
-    <br/><br/>
-    Simply a Software Enginner based in Taipei.
-  </samp>
-  <br/><br/>
-  <img height="30" src="https://user-images.githubusercontent.com/26132913/209638686-e57cec43-5a6a-483e-886e-2421161fb39b.png" alt="HTML">
-  &nbsp;
-  <img height="30" src="https://user-images.githubusercontent.com/26132913/209639049-9b4dfdbe-03c0-42c7-9d45-eb7bc862ee1e.png" alt="CSS">
-  &nbsp;
-  <img height="30" src="https://user-images.githubusercontent.com/26132913/209639296-50f22b8e-b2e6-4495-9d05-5cf350fa6e60.png" alt="JavaScript">
-  &nbsp;
-  <img height="30" src="https://user-images.githubusercontent.com/26132913/209639498-1a36cf40-1af3-4a65-9a05-392a65f181d0.png" alt="TypeScript">
-  &nbsp;
-  <img height="30" src="https://user-images.githubusercontent.com/26132913/209639991-7536fc95-74ca-4acd-8e28-19cccbc0616b.png" alt="ReactJS">
-  &nbsp;
-  <img height="30" src="https://user-images.githubusercontent.com/26132913/209639908-add7f23e-3733-4452-a325-744bffedc01f.png" alt="Node.js">
-  &nbsp;
-  <img height="30" src="https://user-images.githubusercontent.com/26132913/209639825-961ef527-c13f-45a1-97c1-35840239cd53.png" alt="Python">
-  <br/><br/>
-  <a href="https://angushsu.me/">website</a>
-</p>
+<div align="left">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Angus Hsu — Full-Stack Engineer in Taipei, working across web applications, data platforms, and AI integration" src="./assets/header-light.svg" width="100%">
+</picture>
+
+<br/>
+
+Here is what I've learned:
+
+The best tools are built by people who have done the work they automate. Data only matters once someone can ask it a question.
+
+And the best code is the code nobody calls you about at 3 a.m.
+
+---
+
+### `/// SHIPPED`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[EMQQQ](https://emqqq.com/)** `LINE BOT`
+
+An AI-powered LINE chatbot for weather updates, lunar-calendar queries, and holiday information, with LLM and MCP integration.
+
+`Node.js` `MCP` `LLM integration`
+
+</td>
+<td width="50%" valign="top">
+
+**[BaiBai](https://baibai.day/)** `KNOWLEDGE`
+
+A Taiwanese worship knowledge platform offering source-backed guidance on occasions, offerings, and preparation through a website, REST APIs, and MCP tools.
+
+`Next.js` `TypeScript` `REST APIs` `MCP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Identique](https://identique.org/)** `VALIDATION`
+
+A web-based ID validation tool that checks identification numbers using server-side checksum validation and input verification.
+
+[![GitHub](https://img.shields.io/badge/github-identique-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/identique)
+[![Stars](https://img.shields.io/github/stars/identique/idnumbers?style=flat-square&color=2F81F7&label=idnumbers%20%E2%98%85)](https://github.com/identique/idnumbers)
+`React` `TypeScript` `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+**[Lunar MCP Server](https://github.com/AngusHsu/lunar-mcp-server)** `OPEN SOURCE`
+
+The Traditional Chinese lunar calendar as an MCP server — 18 tools for auspicious dates, festivals, moon phases, and zodiac insights.
+
+[![PyPI](https://img.shields.io/pypi/v/lunar-mcp-server?style=flat-square&color=2F81F7&label=pypi)](https://pypi.org/project/lunar-mcp-server/)
+`Python` `MCP`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+### `/// STACK`
+
+<table>
+<tr>
+<td>
+
+```
+FULL-STACK          Python · TypeScript · React · Next.js · FastAPI · Flask · Node.js
+AI INTEGRATION      LLM API integration · MCP · RAG
+DATA PLATFORMS      PostgreSQL · MongoDB · Redis · Milvus · IBM TM1
+CLOUD & DELIVERY    AWS · Docker · CI/CD
+TESTING             Pytest · Jest · Playwright · TestCafe
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+### `/// CONNECT`
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/angushsu.me-2F81F7?style=flat-square&logo=safari&logoColor=white)](https://angushsu.me/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-24292F?style=flat-square&logo=gmail&logoColor=white)](mailto:apangus611@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub><em>Shipped from Taipei, one commit at a time.</em></sub>
+
+</div>
+
+</div>
